@@ -18,7 +18,9 @@ AllowedWebsites=boca.icpcmexico.org|score.icpcmexico.org|icpcmexico.org|
 AllowUsbStorage=false
 AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
 Bookmarks={Contest^https://boca.icpcmexico.org}|
-Wallpaper=default
+Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/wall.jpg
+WallpaperSha256=92d4013b14769672f9a38b21e7724ac1d8bf2921458a94a024a66173fd5e348d
 
 [Contest-Times]
+2025-09-08T00:40:00 2025-09-08T00:45:00
 2025-09-13T10:50:00 2025-09-13T16:00:00
