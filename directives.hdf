@@ -1,0 +1,24 @@
+[Global]
+TimeZone=America/Mexico_City
+ConfigExpirationTime=never
+AvailableKeyboardLayouts=latam|us|es|
+DefaultKeyboardLayout=latam
+EventConfig=false
+ContestConfig=true
+
+[Always]
+AllowedWebsites=all
+AllowUsbStorage=true
+AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|tools/konsole|programming/vscode|
+Bookmarks={ICPC^https://icpc.global}|
+Wallpaper=default
+
+[Contest]
+AllowedWebsites=boca.icpcmexico.org|score.icpcmexico.org|icpcmexico.org|
+AllowUsbStorage=false
+AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
+Bookmarks={Contest^https://boca.icpcmexico.org}|
+Wallpaper=default
+
+[Contest-Times]
+2025-09-13T10:50:00 2025-09-13T16:00:00
