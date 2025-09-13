@@ -10,16 +10,17 @@ ContestConfig=true
 AllowedWebsites=all
 AllowUsbStorage=true
 AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|tools/konsole|programming/vscode|
-Bookmarks={ICPC^https://icpc.global}|{CPC^https://cpcuaeh-judge.dynns.com}|
-Wallpaper=default
+Bookmarks={CPC^https://cpcuaeh-judge.dynns.com}|
+Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/wall_before_contest.jpg
+WallpaperSha256=4e038bfab3600bb7aeee52288d338c3716f4e8cb65163f3f48e4881451f451e6
 
 [Contest]
 AllowedWebsites=boca.icpcmexico.org|score.icpcmexico.org|icpcmexico.org|global.naquadah.com.br/boca|
 AllowUsbStorage=false
 AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|programming/clion|programming/vsc-cpptools|programming/vsc-cpp-compile-run|
 Bookmarks={Concurso^https://global.naquadah.com.br/boca}|
-Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/IMG_1309.PNG
-WallpaperSha256=943496bbe2731d6c87d6c637720fba9833bf5a3595bc271fea08edeccb3992c5
+Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/wall_contest.jpg
+WallpaperSha256=ad3548b26a33e495ac38c7fd9c2edc048e76ea67c1bb60419b7d63a62a1e7367
 
 [Contest-Times]
 2025-09-12T23:35:00 2025-09-12T23:45:00
