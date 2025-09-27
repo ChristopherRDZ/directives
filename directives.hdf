@@ -22,7 +22,7 @@ Wallpaper=https://www.olimpiadadeinformatica.org.mx/OMI/OMI/archivos/huronOS/mod
 WallpaperSha256=A3B07BA5099BCED3514E45F6DD04F456F8D69DC9659CBCA2F3B8B924A9B81B20
 
 [Contest]
-AllowedWebsites=omegaup.com|olimpiadadeinformatica.org.mx|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com|cms.olimpiadadeinformatica.org.mx|www.olimpiadadeinformatica.org.mx/OMI/Karelbug/index.html|karelbug.com/Inicio/Inicio.aspxy|dmoj.olimpiadadeinformatica.org.mx|www.karelbug.com/entrenamiento/my|
+AllowedWebsites=all
 AllowUsbStorage=false
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
 Bookmarks={OmegaUp^https://omegaup.com}|{Reference^https://omegaup.com/docs/cpp/en/}|{Curso^https://www.karelbug.com/entrenamiento/my/}|{KarelBug^https://www.olimpiadadeinformatica.org.mx/OMI/Karelbug/index.html}|{Karel^https://karelbug.com/Inicio/Inicio.aspxy}|
