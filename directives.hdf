@@ -10,23 +10,23 @@ ContestConfig=true
 AllowedWebsites=all
 AllowUsbStorage=true
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
-Bookmarks={Contest^https://boca.icpcmexico.org/}|
+Bookmarks={Server^https://cpcuaeh-judge.dynns.com/}|
 Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/wall_before_contest.jpg
 WallpaperSha256=4e038bfab3600bb7aeee52288d338c3716f4e8cb65163f3f48e4881451f451e6
 
 [Event]
-AllowedWebsites=cms.olimpiadadeinformatica.org.mx|olimpiadadeinformatica.org.mx|omegaup.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com
+AllowedWebsites=all
 AllowUsbStorage=false
-AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
-Bookmarks={Contest^https://cms.olimpiadadeinformatica.org.mx}|{Reference^https://omegaup.com/docs/cpp/en/}
+AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/clion|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
+Bookmarks={Server^https://cpcuaeh-judge.dynns.com/}|
 Wallpaper=https://www.olimpiadadeinformatica.org.mx/OMI/OMI/archivos/huronOS/modo_evento.png
 WallpaperSha256=A3B07BA5099BCED3514E45F6DD04F456F8D69DC9659CBCA2F3B8B924A9B81B20
 
 [Contest]
-AllowedWebsites=boca.icpcmexico.org/|
+AllowedWebsites=boca.icpcmexico.org/|cms.olimpiadadeinformatica.org.mx|olimpiadadeinformatica.org.mx|omegaup.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com|cpcuaeh-judge.dynns.com|
 AllowUsbStorage=false
-AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
-Bookmarks={Contest^https://boca.icpcmexico.org/}|
+AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/clion|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
+Bookmarks={Concurso^https://cpcuaeh-judge.dynns.com/contests/}|
 Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/wall_contest.jpg
 WallpaperSha256=ad3548b26a33e495ac38c7fd9c2edc048e76ea67c1bb60419b7d63a62a1e7367
 
