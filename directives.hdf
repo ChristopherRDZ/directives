@@ -11,8 +11,8 @@ AllowedWebsites=all
 AllowUsbStorage=true
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
 Bookmarks={Server^https://cpcuaeh-judge.dynns.com/}|
-Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/uaeh_default.jpg
-WallpaperSha256=b52e680d1341afefdf6eedc4516f93fa73f5d0dff0471d6ec83588219bcc36b6
+Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/uaeh_default_1.jpg
+WallpaperSha256=132dbe9675fa6609d6ba0760e43d80eb7722085ffa3c8e5b2fce3ebac0a810c4
 
 [Event]
 AllowedWebsites=all
