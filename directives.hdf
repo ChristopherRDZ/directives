@@ -12,7 +12,7 @@ AllowUsbStorage=true
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
 Bookmarks={Server^https://cpcuaeh-judge.dynns.com/}|
 Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/uaeh_default.jpg
-WallpaperSha256=132dbe9675fa6609d6ba0760e43d80eb7722085ffa3c8e5b2fce3ebac0a810c4
+WallpaperSha256=6f538e526788cadec425a47da9cd2a99549c1e6f006e379aa396e6fefb2d623f
 
 [Event]
 AllowedWebsites=all
