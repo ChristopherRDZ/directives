@@ -11,27 +11,27 @@ AllowedWebsites=all
 AllowUsbStorage=true
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
 Bookmarks={Server^https://cpcuaeh-judge.dynns.com/}|
-Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/wall_before_contest.jpg
-WallpaperSha256=4e038bfab3600bb7aeee52288d338c3716f4e8cb65163f3f48e4881451f451e6
+Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/uaeh_default.jpg
+WallpaperSha256=b52e680d1341afefdf6eedc4516f93fa73f5d0dff0471d6ec83588219bcc36b6
 
 [Event]
 AllowedWebsites=all
 AllowUsbStorage=false
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/clion|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
 Bookmarks={Server^https://cpcuaeh-judge.dynns.com/}|
-Wallpaper=https://www.olimpiadadeinformatica.org.mx/OMI/OMI/archivos/huronOS/modo_evento.png
-WallpaperSha256=A3B07BA5099BCED3514E45F6DD04F456F8D69DC9659CBCA2F3B8B924A9B81B20
+Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/torre_evento.jpg
+WallpaperSha256=b61bed34b5eb009243c7148df8e063c410d86aa086310031fb7baf545f9aeb54
 
 [Contest]
 AllowedWebsites=boca.icpcmexico.org/|cms.olimpiadadeinformatica.org.mx|olimpiadadeinformatica.org.mx|omegaup.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com|cpcuaeh-judge.dynns.com|
 AllowUsbStorage=false
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/clion|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
 Bookmarks={Concurso^https://cpcuaeh-judge.dynns.com/contests/}|
-Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/wall_contest.jpg
-WallpaperSha256=ad3548b26a33e495ac38c7fd9c2edc048e76ea67c1bb60419b7d63a62a1e7367
+Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/edificioB_concurso.jpg
+WallpaperSha256=1bbf5d9cb9dca96f9e4bfb0c048d8f529fe26e025e2e35166e0b84c42fb0140f
 
 [Event-Times]
+2025-11-24T00:50:00 2025-11-24T01:10:00
 
 [Contest-Times]
-2025-09-27T09:45:00 2025-09-27T14:30:00
-2025-10-16T09:45:00 2025-10-16T14:00:00
+2025-11-24T00:55:00 2025-11-24T01:05:00
