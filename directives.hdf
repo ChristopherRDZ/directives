@@ -17,7 +17,7 @@ WallpaperSha256=6f538e526788cadec425a47da9cd2a99549c1e6f006e379aa396e6fefb2d623f
 [Event]
 AllowedWebsites=all
 AllowUsbStorage=false
-AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/clion|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
+AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
 Bookmarks={Server^https://cpcuaeh-judge.dynns.com/}|
 Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/torre_evento.jpg
 WallpaperSha256=efe5a905f941eda7355a9c8939924ce828cf33e08b1c43340f907491680d7221
@@ -25,7 +25,7 @@ WallpaperSha256=efe5a905f941eda7355a9c8939924ce828cf33e08b1c43340f907491680d7221
 [Contest]
 AllowedWebsites=boca.icpcmexico.org/|cms.olimpiadadeinformatica.org.mx|olimpiadadeinformatica.org.mx|omegaup.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com|cpcuaeh-judge.dynns.com|
 AllowUsbStorage=false
-AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/clion|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
+AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
 Bookmarks={Concurso^https://cpcuaeh-judge.dynns.com/contests/}|
 Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/edificioB_concurso.jpg
 WallpaperSha256=79365a1d0d9e1a95d4665077e47400353fed3ac7927a644d0574ee11569a3af4
@@ -35,6 +35,10 @@ WallpaperSha256=79365a1d0d9e1a95d4665077e47400353fed3ac7927a644d0574ee11569a3af4
 2025-11-24T01:35:00 2025-11-24T01:50:00
 2025-11-24T09:00:00 2025-11-24T15:00:00
 2025-11-25T09:00:00 2025-11-25T15:00:00
+2025-11-26T09:00:00 2025-11-26T15:00:00
 
 [Contest-Times]
 2025-11-24T11:20:00 2025-11-24T14:20:00
+2025-11-26T11:20:00 2025-11-26T14:20:00
+
+
