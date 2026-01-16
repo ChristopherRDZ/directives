@@ -27,8 +27,8 @@ AllowedWebsites=boca.icpcmexico.org/|cms.olimpiadadeinformatica.org.mx|olimpiada
 AllowUsbStorage=false
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
 Bookmarks={Concurso^https://cpcuaeh-judge.dynns.com/contests/}|
-Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/edificioB_concurso.jpg
-WallpaperSha256=79365a1d0d9e1a95d4665077e47400353fed3ac7927a644d0574ee11569a3af4
+Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/maullincpc_pixel.jpg
+WallpaperSha256=e43d256002cdefc1b841410d16a4605bdd7dc4565fc61fdade0c102e78970096
 
 [Event-Times]
 2025-11-24T00:50:00 2025-11-24T01:10:00
@@ -43,6 +43,6 @@ WallpaperSha256=79365a1d0d9e1a95d4665077e47400353fed3ac7927a644d0574ee11569a3af4
 2025-11-26T11:20:00 2025-11-26T14:20:00
 2025-11-28T08:50:00 2025-11-28T13:15:00
 2025-11-29T08:50:00 2025-11-29T14:30:00
-
+2026-01-16T08:50:00 2026-01-16T12:15:00
 
 
