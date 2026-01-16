@@ -27,7 +27,7 @@ AllowedWebsites=boca.icpcmexico.org/|cms.olimpiadadeinformatica.org.mx|olimpiada
 AllowUsbStorage=false
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
 Bookmarks={Concurso^https://cpcuaeh-judge.dynns.com/contests/}|
-Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/maullincpc_pixel.jpg
+Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/maullincpc_pixel.png
 WallpaperSha256=e43d256002cdefc1b841410d16a4605bdd7dc4565fc61fdade0c102e78970096
 
 [Event-Times]
