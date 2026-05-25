@@ -10,23 +10,23 @@ ContestConfig=true
 AllowedWebsites=all
 AllowUsbStorage=true
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
-Bookmarks={Server^https://cpcuaeh-judge.dynns.com/}|
-Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/uaeh_default.jpg
-WallpaperSha256=6f538e526788cadec425a47da9cd2a99549c1e6f006e379aa396e6fefb2d623f
+Bookmarks={Server^https://cpcjudge.com/}|
+Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/wall1_default.png
+WallpaperSha256=37009adccc1589d84bcddc7a40c1f60b1147b78319927139a1608d9fa6032555
 
 [Event]
 AllowedWebsites=all
 AllowUsbStorage=false
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
-Bookmarks={Server^https://cpcuaeh-judge.dynns.com/}|
-Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/torre_evento.jpg
-WallpaperSha256=efe5a905f941eda7355a9c8939924ce828cf33e08b1c43340f907491680d7221
+Bookmarks={Server^https://cpcjudge.com/}|
+Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/wall1_default.png
+WallpaperSha256=37009adccc1589d84bcddc7a40c1f60b1147b78319927139a1608d9fa6032555
 
 [Contest]
-AllowedWebsites=boca.icpcmexico.org/|
+AllowedWebsites=boca.icpcmexico.org/|cdnjs.cloudflare.com|cpcjudge.com|
 AllowUsbStorage=false
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
-Bookmarks={Concurso^https://boca.icpcmexico.org/}|
+Bookmarks={Concurso^https://cpcjudge.com/contests/}|
 Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/maullincpc_pixel.png
 WallpaperSha256=e43d256002cdefc1b841410d16a4605bdd7dc4565fc61fdade0c102e78970096
 
@@ -37,6 +37,10 @@ WallpaperSha256=e43d256002cdefc1b841410d16a4605bdd7dc4565fc61fdade0c102e78970096
 2025-11-25T09:00:00 2025-11-25T15:00:00
 2025-11-26T09:00:00 2025-11-26T15:00:00
 2025-11-27T09:00:00 2025-11-27T15:00:00
+2026-05-25T08:40:00 2026-05-25T15:00:00
+2026-05-26T09:00:00 2026-05-26T15:00:00
+2026-05-27T09:00:00 2026-05-27T15:00:00
+2026-05-28T09:00:00 2026-05-28T15:00:00
 
 [Contest-Times]
 2025-11-24T11:20:00 2025-11-24T14:20:00
@@ -47,3 +51,6 @@ WallpaperSha256=e43d256002cdefc1b841410d16a4605bdd7dc4565fc61fdade0c102e78970096
 2026-04-11T10:40:00 2026-04-11T16:15:00
 2026-04-18T10:40:00 2026-04-18T16:15:00
 2026-05-16T10:40:00 2026-05-16T16:15:00
+2026-05-25T11:20:00 2026-05-25T14:15:00
+2026-05-27T11:20:00 2026-05-27T14:15:00
+2026-05-29T08:50:00 2026-05-29T13:15:00
