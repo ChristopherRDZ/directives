@@ -12,7 +12,7 @@ AllowUsbStorage=true
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
 Bookmarks={Server^https://cpcjudge.com/}|
 Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/wall1_default.png
-WallpaperSha256=594088beebaec39b15055bf1398e0b7e62f0b418b24545ee0247a7b66bf1ad21
+WallpaperSha256=e3f2bee3f92431dce7d9bbd9842fae66f640ff78d0345c2124577e8c38a599ce
 
 [Event]
 AllowedWebsites=all
@@ -20,7 +20,7 @@ AllowUsbStorage=false
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
 Bookmarks={Server^https://cpcjudge.com/}|
 Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/wall1_default.png
-WallpaperSha256=594088beebaec39b15055bf1398e0b7e62f0b418b24545ee0247a7b66bf1ad21
+WallpaperSha256=e3f2bee3f92431dce7d9bbd9842fae66f640ff78d0345c2124577e8c38a599ce
 
 [Contest]
 AllowedWebsites=boca.icpcmexico.org/|cdnjs.cloudflare.com|cpcjudge.com|
