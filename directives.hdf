@@ -27,8 +27,8 @@ AllowedWebsites=boca.icpcmexico.org/|cdnjs.cloudflare.com|cpcjudge.com|
 AllowUsbStorage=false
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
 Bookmarks={Concurso^https://cpcjudge.com/contests/}|
-Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/maullincpc_pixel.jpg
-WallpaperSha256=665e254016336e67668e132827446df14ecf4d9eada0af14dd4c383ae92fd9ee
+Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads/main/Spring2026.jpg
+WallpaperSha256=B16604BBEF612757B31EF052A6565B7E2B3D793C8E7E263B2A4E10D6C56A17B3
 
 [Event-Times]
 2026-05-25T08:40:00 2026-05-25T15:00:00
@@ -41,4 +41,4 @@ WallpaperSha256=665e254016336e67668e132827446df14ecf4d9eada0af14dd4c383ae92fd9ee
 2026-05-26T12:45:00 2026-05-26T13:45:00
 2026-05-27T10:45:00 2026-05-27T11:00:00
 2026-05-27T11:20:00 2026-05-27T14:15:00
-2026-05-29T08:50:00 2026-05-29T13:15:00
+2026-05-29T08:30:00 2026-05-29T13:15:00
