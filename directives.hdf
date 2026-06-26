@@ -23,7 +23,7 @@ Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads
 WallpaperSha256=efe5a905f941eda7355a9c8939924ce828cf33e08b1c43340f907491680d7221
 
 [Contest]
-AllowedWebsites=boca.icpcmexico.org/|cdnjs.cloudflare.com|cpcjudge.com|omegaup.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com|ide.usaco.guide|www.onlinegdb.com|es.cppreference.com|assets.onedollarstats.com|static.cloudflareinsights.com|html-load.com|
+AllowedWebsites=boca.icpcmexico.org/|cdnjs.cloudflare.com|cpcjudge.com|omegaup.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com|ide.usaco.guide|www.onlinegdb.com|es.cppreference.com|assets.onedollarstats.com|static.cloudflareinsights.com|html-load.com|www.googletagmanager.com|
 AllowUsbStorage=true
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
 Bookmarks={omegaUp^https://omegaup.com/}|{IDE-USACO^https://ide.usaco.guide}|{OnlineGDB^https://www.onlinegdb.com}|{ReferenceC++^https://es.cppreference.com}
