@@ -23,7 +23,7 @@ Wallpaper=https://raw.githubusercontent.com/ChristopherRDZ/directives/refs/heads
 WallpaperSha256=79365a1d0d9e1a95d4665077e47400353fed3ac7927a644d0574ee11569a3af4
 
 [Contest]
-AllowedWebsites=https://contest.helium.icpcmexico.org/codefem-2026|boca.icpcmexico.org/|cdnjs.cloudflare.com|cpcjudge.com|omegaup.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com|ide.usaco.guide|www.onlinegdb.com|es.cppreference.com|static.cloudflareinsights.com|assets.onedollarstats.com|www.googletagmanager.com|github.com/cpinitiative/ide/|
+AllowedWebsites=cdnjs.cloudflare.com|cpcjudge.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com|ide.usaco.guide|www.onlinegdb.com|es.cppreference.com|static.cloudflareinsights.com|assets.onedollarstats.com|www.googletagmanager.com|github.com/cpinitiative/ide/|challenges.cloudflare.com|
 AllowUsbStorage=true
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/make|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-makefile-tools|
 Bookmarks={CPC-UAEH^https://cpcjudge.com/}
@@ -34,4 +34,4 @@ WallpaperSha256=285586b23f0fa17610cae296dec4944fb017dcc06341395c10709a5a9b83f9e6
 2026-11-09T20:00:00 2026-11-09T23:00:00
 
 [Contest-Times]
-2026-11-10T09:50:00 2026-11-10T13:31:00
+2026-11-10T09:50:00 2026-11-10T14:00:00
